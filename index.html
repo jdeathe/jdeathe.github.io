@@ -27,6 +27,7 @@
       .hello-banner {padding: 40px 15px; text-align: center; background-color: #222; border-radius: 6px;}
       .hello-banner h1 {font-size: 63px;}
       .hello-banner p {margin-bottom: 15px; font-size: 21px; font-weight: 200;}
+      .btn-group {margin-bottom: 15px;}
     </style>
   </head>
   <body>
@@ -34,16 +35,19 @@
       <div class="hello-banner">
         <h1>James Deathe</h1>
         <p>This is my Github page with a few links to other related stuff.</p>
-        <p class="lead">
-          <a href="https://github.com/jdeathe" class="btn btn-lg btn-primary">Github</a>
-          <a href="https://gist.github.com/jdeathe" class="btn btn-lg btn-default">Gists</a>
-          <a href="https://semaphoreci.com/jdeathe" class="btn btn-lg btn-default">Semaphore CI</a>
-          <a href="https://hub.docker.com/u/jdeathe" class="btn btn-lg btn-default">Docker Hub</a>
-          <a href="https://quay.io/user/jdeathe" class="btn btn-lg btn-default">Quay</a>
-          <a href="https://atlas.hashicorp.com/jdeathe" class="btn btn-lg btn-default">Atlas Boxes</a>
-          <a href="http://url.deathe.org/get_digitalocean" class="btn btn-lg btn-default">Get a VM</a>
-          <a href="http://url.deathe.org/get_privatetunnel" class="btn btn-lg btn-default">Get a VPN</a>
-        </p>
+        <div class="btn-group btn-group-lg" role="group">
+          <a href="https://github.com/jdeathe" class="btn btn-primary">Github</a>
+          <a href="https://gist.github.com/jdeathe" class="btn btn-default">Gists</a>
+          <a href="https://semaphoreci.com/jdeathe" class="btn btn-default">Semaphore CI</a>
+          <a href="https://hub.docker.com/u/jdeathe" class="btn btn-default">Docker Hub</a>
+          <a href="https://quay.io/user/jdeathe" class="btn btn-default">Quay</a>
+          <a href="https://atlas.hashicorp.com/jdeathe" class="btn btn-default">Atlas Boxes</a>
+        </div>
+        <br />
+        <div class="btn-group btn-group-xs" role="group">
+          <a href="http://url.deathe.org/get_digitalocean" class="btn btn-success">Get a VM</a>
+          <a href="http://url.deathe.org/get_privatetunnel" class="btn btn-success">Get a VPN</a>
+        </div>
       </div>
     </div>
 
