@@ -6,7 +6,7 @@ I hereby claim:
 
   * I am an admin of https://www.deathe.org
   * I am jdeathe (https://keybase.io/jdeathe) on keybase.
-  * I have a public key with fingerprint B076 A415 B14E 9393 BD6A  BCE7 9071 AD75 7AE1 E9CE
+  * I have a public key ASAuCtbMWhvn2eDhBjHkiWGO73nB2AtsyFPUcUxC0G1-Ywo
 
 To do so, I am signing this object:
 
@@ -14,22 +14,16 @@ To do so, I am signing this object:
   "body": {
     "key": {
       "eldest_kid": "0101c856206916fda547fe1064ce89980336607c807e01813355a45e01c8f8137b500a",
-      "fingerprint": "b076a415b14e9393bd6abce79071ad757ae1e9ce",
       "host": "keybase.io",
-      "key_id": "9071ad757ae1e9ce",
-      "kid": "0101c856206916fda547fe1064ce89980336607c807e01813355a45e01c8f8137b500a",
+      "kid": "01202e0ad6cc5a1be7d9e0e10631e489618eef79c1d80b6cc853d4714c42d06d7e630a",
       "uid": "20472377920c60ce7661f5b1e4de0619",
       "username": "jdeathe"
     },
     "merkle_root": {
-      "ctime": 1505597945,
-      "hash_meta": "3d279f3dff6c608c7856c8b7c992f850fadbe6ce2b224a2f172e192dfde39183",
-      "seqno": 1392047
-    },
-    "revoke": {
-      "sig_ids": [
-        "d82a9c113fc58c3ebe0ac9cf8016183590392da159a9b9e2632ec34f34d58dd00f"
-      ]
+      "ctime": 1505602628,
+      "hash": "ac96205c3b261c2ae52d1aabfd578aeb50acda1f717f371c749ab7d45daa5c4d1275b628d823581abea1749665dcd8d4ae0b31f7d395b2ba0c43bb65618375ce",
+      "hash_meta": "dc3bbeb9c47eeb6ab51aaa76bc76e53c42d46c3bb458fd4bba4c463b0b6a66d8",
+      "seqno": 1392117
     },
     "service": {
       "hostname": "www.deathe.org",
@@ -38,46 +32,20 @@ To do so, I am signing this object:
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1505598030,
-  "expire_in": 157680000,
-  "prev": "20b08ba3649309f8e5694d6b74ff5d175c1247b35a4c4d4324b7df47c642d2b3",
-  "seqno": 9,
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.30"
+  },
+  "ctime": 1505602714,
+  "expire_in": 504576000,
+  "prev": "f8092afa1861a2c6ab484e7a70f25b94358d19095193f0864b505f1edc37bcd7",
+  "seqno": 11,
   "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.73
-Comment: https://keybase.io/crypto
-
-yMPQAnicrVN9TFZVHH7BkmLSWKlDJcsbk5WvdM79OPce1Gn0wfCDOT9W8oqv995z
-7ssNeO/LvfdFBZnNrOEKNdeS8MWZS8GKNJs60VIQl1LIIG0LzY9CEVFRLGqutHPJ
-ttr6s/PP3Tn3eZ7f83t+57QkDfMlxm0oaYiWXew9Gfd1c2nUt+iLmtxyTrPICi6z
-nCukQx9aRKjjBgtNwmVyAAKoKxLiAcIQGUSVRNmgECBRpwrGChAEhICsK0CmACpQ
-ECRJFSXqsQy2lTUJAJXzc4YZDlE7Ypthl8lqQEaqCCUNihQLWNAIUjWdyhjIUCWy
-JKsUUqxTRiywHI/BzGmqQzNMi52xTXDI3n/g/2ff0SE5HogyL8gy5oGOADOKEDSY
-eyoSChDEHtChdlgtpgz9KqGqW0C5Cj9XTO3CIhq0Lcv1stVd00NACUgSlrEosf5U
-pyBYTF2VEQXCy9gQiGEgVkbRZdaBrmiyjjFvKBIwVKJRpFNe43lR5Q0o8xRinhiE
-ChgqArPh0JKwxSoI2PPMHNi01CqkXnHHDLHUHC4zwBGFV7EOoWDokqILVKNA1bFu
-KAAipiNhwPhEhRJWsYYpjwSe6oJoCCKRFEIAMLj8Cq+YXWrqQ+LemO63v2zZsoy/
-Esiw7BDzFLEt19KtIvavwHUjTqaXjLsiMgSmWvC+TFAzw4RdE8YopbZjWmHWB0P+
-KzQ2OeDn6PKIadOg6SEkGSmALa8OLR0algYUTRWQiAWADYVKCIsEabJoGBKBsqRD
-XpQ1gQ1cF4ko8KImE0OUdSTyhNf+kSJmNtUQk2TRhVU3arOZNjctfsAXl+gb/mC8
-93x8iQ8n//2oZs5O9lUdS1vRMm7u3v1nut/ZUTducsPetq0zxsfKxMPRrMqEzaix
-sHvqycEDblKZ/dvO1hN5Y49vCAbW+AcC3MR5OQPO2DzHWd712a6uWMeBga2peWOO
-zlqKu1YNzOsO+W/+8cOoC6lPRPf8qPCx2moVgo73nJ9z9U03NivzpygL4lGK70T9
-a5VN+V2/jlkd3rW0I33/C/Wn+h9792736cjBuu/vnW03tJzMdW2z+253XDu0M9i5
-L5ZVXrl98dHKUOuV15cklnCfz8o+fOTyhPpJ6RH6bHO1hSPHYo/fdPYM37QEbXxo
-Jd+TdrbzO2MLnAC/7Ykfvf2NhEjVafhI7uDouNtzki+5H01pPDcnua/4+eUffjAp
-dX1bZe2tj31qwb6zgcD0rhMb2+pnKL1rpyFx8rY090Ls2tS6Qzeqq27NPfZKy6oj
-7Vvujf79XHbfupXlq8OpZ/Ii+3fipNiVT0oW+BfK3dVfnlyf8ag1LGXUM9veSl9I
-xy+Ky+q5cyXcU0mmjWivXxtp3Xa+/OJPc2FNfmfLSL9d2tq8klY8vbnh+mDL9GD0
-4LVT3wT7j95ZxMVyasXeuut9TedTf8nNamvsH1aze/eBu+KF3IrcsssvH+9YkDHw
-dlP8DOPTUNGOtKtPTTev9j43f+KaS86Lga+qCvpvdK1pSJiZk/1+R+CleHjzckpG
-fE3rm2bSiLInEwO1I/8EIu0IAg==
-=z0PK
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLgrWzFob59ng4QYx5Ilhju95wdgLbMhT1HFMQtBtfmMKp3BheWxvYWTFA0Z7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxYzg1NjIwNjkxNmZkYTU0N2ZlMTA2NGNlODk5ODAzMzY2MDdjODA3ZTAxODEzMzU1YTQ1ZTAxYzhmODEzN2I1MDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMmUwYWQ2Y2M1YTFiZTdkOWUwZTEwNjMxZTQ4OTYxOGVlZjc5YzFkODBiNmNjODUzZDQ3MTRjNDJkMDZkN2U2MzBhIiwidWlkIjoiMjA0NzIzNzc5MjBjNjBjZTc2NjFmNWIxZTRkZTA2MTkiLCJ1c2VybmFtZSI6ImpkZWF0aGUifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDU2MDI2MjgsImhhc2giOiJhYzk2MjA1YzNiMjYxYzJhZTUyZDFhYWJmZDU3OGFlYjUwYWNkYTFmNzE3ZjM3MWM3NDlhYjdkNDVkYWE1YzRkMTI3NWI2MjhkODIzNTgxYWJlYTE3NDk2NjVkY2Q4ZDRhZTBiMzFmN2QzOTViMmJhMGM0M2JiNjU2MTgzNzVjZSIsImhhc2hfbWV0YSI6ImRjM2JiZWI5YzQ3ZWViNmFiNTFhYWE3NmJjNzZlNTNjNDJkNDZjM2JiNDU4ZmQ0YmJhNGM0NjNiMGI2YTY2ZDgiLCJzZXFubyI6MTM5MjExN30sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ3d3cuZGVhdGhlLm9yZyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMwIn0sImN0aW1lIjoxNTA1NjAyNzE0LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImY4MDkyYWZhMTg2MWEyYzZhYjQ4NGU3YTcwZjI1Yjk0MzU4ZDE5MDk1MTkzZjA4NjRiNTA1ZjFlZGMzN2JjZDciLCJzZXFubyI6MTEsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAZp34yVCxoIaZhKqotRKhXkm/1y2OoOFF098lqFq8b31Gwui23wtQmAL8+Hinoe7DzFIudjSPmEQrHW7yxSRzAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICtctYCsL0OWokqveNrtQCb6qqvvBwVfTnvJWm2013CGo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -85,4 +53,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/jdeathe
 
 ==================================================================
-
