@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/jdeathe
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.deathe.org
+  * I am jdeathe (https://keybase.io/jdeathe) on keybase.
+  * I have a public key with fingerprint B076 A415 B14E 9393 BD6A  BCE7 9071 AD75 7AE1 E9CE
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101c856206916fda547fe1064ce89980336607c807e01813355a45e01c8f8137b500a",
+      "fingerprint": "b076a415b14e9393bd6abce79071ad757ae1e9ce",
+      "host": "keybase.io",
+      "key_id": "9071ad757ae1e9ce",
+      "kid": "0101c856206916fda547fe1064ce89980336607c807e01813355a45e01c8f8137b500a",
+      "uid": "20472377920c60ce7661f5b1e4de0619",
+      "username": "jdeathe"
+    },
+    "merkle_root": {
+      "ctime": 1505597945,
+      "hash_meta": "3d279f3dff6c608c7856c8b7c992f850fadbe6ce2b224a2f172e192dfde39183",
+      "seqno": 1392047
+    },
+    "revoke": {
+      "sig_ids": [
+        "d82a9c113fc58c3ebe0ac9cf8016183590392da159a9b9e2632ec34f34d58dd00f"
+      ]
+    },
+    "service": {
+      "hostname": "www.deathe.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1505598030,
+  "expire_in": 157680000,
+  "prev": "20b08ba3649309f8e5694d6b74ff5d175c1247b35a4c4d4324b7df47c642d2b3",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.73
+Comment: https://keybase.io/crypto
+
+yMPQAnicrVN9TFZVHH7BkmLSWKlDJcsbk5WvdM79OPce1Gn0wfCDOT9W8oqv995z
+7ssNeO/LvfdFBZnNrOEKNdeS8MWZS8GKNJs60VIQl1LIIG0LzY9CEVFRLGqutHPJ
+ttr6s/PP3Tn3eZ7f83t+57QkDfMlxm0oaYiWXew9Gfd1c2nUt+iLmtxyTrPICi6z
+nCukQx9aRKjjBgtNwmVyAAKoKxLiAcIQGUSVRNmgECBRpwrGChAEhICsK0CmACpQ
+ECRJFSXqsQy2lTUJAJXzc4YZDlE7Ypthl8lqQEaqCCUNihQLWNAIUjWdyhjIUCWy
+JKsUUqxTRiywHI/BzGmqQzNMi52xTXDI3n/g/2ff0SE5HogyL8gy5oGOADOKEDSY
+eyoSChDEHtChdlgtpgz9KqGqW0C5Cj9XTO3CIhq0Lcv1stVd00NACUgSlrEosf5U
+pyBYTF2VEQXCy9gQiGEgVkbRZdaBrmiyjjFvKBIwVKJRpFNe43lR5Q0o8xRinhiE
+ChgqArPh0JKwxSoI2PPMHNi01CqkXnHHDLHUHC4zwBGFV7EOoWDokqILVKNA1bFu
+KAAipiNhwPhEhRJWsYYpjwSe6oJoCCKRFEIAMLj8Cq+YXWrqQ+LemO63v2zZsoy/
+Esiw7BDzFLEt19KtIvavwHUjTqaXjLsiMgSmWvC+TFAzw4RdE8YopbZjWmHWB0P+
+KzQ2OeDn6PKIadOg6SEkGSmALa8OLR0algYUTRWQiAWADYVKCIsEabJoGBKBsqRD
+XpQ1gQ1cF4ko8KImE0OUdSTyhNf+kSJmNtUQk2TRhVU3arOZNjctfsAXl+gb/mC8
+93x8iQ8n//2oZs5O9lUdS1vRMm7u3v1nut/ZUTducsPetq0zxsfKxMPRrMqEzaix
+sHvqycEDblKZ/dvO1hN5Y49vCAbW+AcC3MR5OQPO2DzHWd712a6uWMeBga2peWOO
+zlqKu1YNzOsO+W/+8cOoC6lPRPf8qPCx2moVgo73nJ9z9U03NivzpygL4lGK70T9
+a5VN+V2/jlkd3rW0I33/C/Wn+h9792736cjBuu/vnW03tJzMdW2z+253XDu0M9i5
+L5ZVXrl98dHKUOuV15cklnCfz8o+fOTyhPpJ6RH6bHO1hSPHYo/fdPYM37QEbXxo
+Jd+TdrbzO2MLnAC/7Ykfvf2NhEjVafhI7uDouNtzki+5H01pPDcnua/4+eUffjAp
+dX1bZe2tj31qwb6zgcD0rhMb2+pnKL1rpyFx8rY090Ls2tS6Qzeqq27NPfZKy6oj
+7Vvujf79XHbfupXlq8OpZ/Ii+3fipNiVT0oW+BfK3dVfnlyf8ag1LGXUM9veSl9I
+xy+Ky+q5cyXcU0mmjWivXxtp3Xa+/OJPc2FNfmfLSL9d2tq8klY8vbnh+mDL9GD0
+4LVT3wT7j95ZxMVyasXeuut9TedTf8nNamvsH1aze/eBu+KF3IrcsssvH+9YkDHw
+dlP8DOPTUNGOtKtPTTev9j43f+KaS86Lga+qCvpvdK1pSJiZk/1+R+CleHjzckpG
+fE3rm2bSiLInEwO1I/8EIu0IAg==
+=z0PK
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jdeathe
+
+==================================================================
+
